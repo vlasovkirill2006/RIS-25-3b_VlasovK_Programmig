@@ -25,3 +25,11 @@
   
 - [x] Checkbox
 - [ ] Checkbox
+
+<https://pstu.ru/>
+
+[PSTU](https://pstu.ru "Text")
+
+[PSTU] [pstu]
+
+[pstu]: https://pstu.ru
