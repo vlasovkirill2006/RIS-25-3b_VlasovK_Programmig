@@ -28,8 +28,12 @@
 
 <https://pstu.ru/>
 
-[PSTU](https://pstu.ru "Text")
+[Youtube](https://youtube.com "Text")
 
-[PSTU] [pstu]
+[PSTU][pstu]
 
 [pstu]: https://pstu.ru
+
+![Text for me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-SaYWlXmVicHWYEEpRgrmFir507tWQk3pA&s)
+
+![кот мем](https://github.com/user-attachments/assets/1a499196-7604-476e-9f79-df67afedf5c2)
