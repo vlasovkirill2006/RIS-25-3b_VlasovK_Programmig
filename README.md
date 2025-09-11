@@ -10,3 +10,12 @@
 ***Bold cursive text***
 
 ~~Decline text~~
+
+1. Text1
+2. Text2
+
+* Text
+- Text
++ Text
+- [x] Checkbox
+- [ ] Checkbox
