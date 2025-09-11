@@ -39,7 +39,7 @@
 ![Text for me](cat-meme.jpg)
 
 ```Python
-printt("Hello");
+print("Hello");
 ```
 
 |Name1|Name2|Name3|
