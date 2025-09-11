@@ -4,6 +4,9 @@
 >Hi
 >
 >*Cursive text*
+>
 >**Bold text**
+>
 >***Bold cursive text***
+>
 >~~Decline text~~
