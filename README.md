@@ -36,8 +36,12 @@
 
 ![Text for me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-SaYWlXmVicHWYEEpRgrmFir507tWQk3pA&s)
 
-![Text for me](кот мем.jpg)
+![Text for me](cat-meme.jpg)
 
 ```Python
 printt("Hello");
 ```
+
+|Name1|Name2|Name3|
+|:-|:---:|--:|
+|Surname1|Surname2|Surname3|
