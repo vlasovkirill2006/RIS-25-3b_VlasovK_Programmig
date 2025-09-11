@@ -2,11 +2,11 @@
 ## Hello
 ### World
 >Hi
->
->*Cursive text*
->
->**Bold text**
->
->***Bold cursive text***
->
->~~Decline text~~
+
+*Cursive text*
+
+**Bold text**
+
+***Bold cursive text***
+
+~~Decline text~~
