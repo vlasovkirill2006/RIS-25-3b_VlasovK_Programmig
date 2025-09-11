@@ -36,4 +36,8 @@
 
 ![Text for me](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-SaYWlXmVicHWYEEpRgrmFir507tWQk3pA&s)
 
-![кот мем](https://github.com/user-attachments/assets/1a499196-7604-476e-9f79-df67afedf5c2)
+![Text for me](кот мем.jpg)
+
+```Python
+printt("Hello");
+```
